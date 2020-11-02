@@ -1,5 +1,7 @@
 # CosntructASCATFiles
 
+## Authors: Remco Hoogenboezem & Mathijs Sanders
+
 This repository contains code for constructing the necessary input files for running ASCAT based on a dbSNP VCF file. This multi-threaded algorithm walks across the genome collecting information on SNPs present in the dbSNP file.
 
 ## How do I run it?
